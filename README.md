@@ -86,7 +86,10 @@ I believe consistent practice, patience, and understanding fundamentals are esse
 
 - **GitHub:** [skhumera0202](https://github.com/skhumera0202)
 - **LeetCode:** [My LeetCode Profile](https://leetcode.com/u/humerashaikh/)
-  **Linkedin:** [My Linkedin Profile](https://www.linkedin.com/in/humerashaikh0202/)
+- **Linkedin:** [My Linkedin Profile](https://www.linkedin.com/in/humerashaikh0202/)
+
+
+
 ---
 
 ⭐ If you're also learning DSA, feel free to explore this repository and follow along with my journey.
