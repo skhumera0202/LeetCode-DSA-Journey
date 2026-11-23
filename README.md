@@ -95,3 +95,14 @@ I believe consistent practice, patience, and understanding fundamentals are esse
 ⭐ If you're also learning DSA, feel free to explore this repository and follow along with my journey.
 
 **Learn. Practice. Improve. Repeat.**
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/skhumera0202/LeetCode-DSA-Journey/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/skhumera0202/LeetCode-DSA-Journey/tree/master/0001-two-sum) |
+<!---LeetCode Topics End-->
