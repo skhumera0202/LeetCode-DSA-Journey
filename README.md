@@ -44,25 +44,6 @@ I will gradually explore and practice the following topics:
 - Greedy Algorithms
 - Bit Manipulation
 
-## 📂 Repository Structure
-
-Solutions are organized by LeetCode problem number and name.
-
-```text
-LeetCode-DSA-Journey/
-│
-├── 0001-Two-Sum/
-│   └── solution.py
-│
-├── 0002-Add-Two-Numbers/
-│   └── solution.py
-│
-├── 0003-Longest-Substring/
-│   └── solution.py
-│
-└── README.md
-```
-
 *The folder structure may evolve as the repository grows.*
 
 ## 📈 My Learning Approach
