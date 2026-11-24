@@ -33,7 +33,7 @@ class Solution(object):
 
             elif max_left1 > min_right2:
                 right = i - 1
-
+                
             else:
                 left = i + 1
         
