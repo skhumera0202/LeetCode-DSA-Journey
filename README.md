@@ -96,6 +96,7 @@ I believe consistent practice, patience, and understanding fundamentals are esse
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/skhumera0202/LeetCode-DSA-Journey/tree/master/0002-add-two-numbers) |
+| [0007-reverse-integer](https://github.com/skhumera0202/LeetCode-DSA-Journey/tree/master/0007-reverse-integer) |
 ## Recursion
 |  |
 | ------- |
